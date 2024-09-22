@@ -1,0 +1,4 @@
+Collaboration and Remote Repositories 
+Write the command to merge "feature-branch" 
+into "master" while providing a custom 
+commit message for the merge. 
