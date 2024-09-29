@@ -1,0 +1,7 @@
+hiiiiii
+Artificial intelligence.
+is the science of making machine. hi
+<<<<<<< Updated upstream
+welcomme
+=======
+>>>>>>> Stashed changes
